@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+## What we Create
+PokeApp that give detail about every pokemon in pokemon show
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/39709396/148928709-86fbba25-60f5-4d70-b3ad-04b761049011.jpg" height=400 width=250 >
+<img src="https://user-images.githubusercontent.com/39709396/148928434-be4cac3a-2ca1-4391-abc8-91bb61ef8d3a.jpg" height=400 width=250 >
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://user-images.githubusercontent.com/39709396/148928934-2c7217cf-3e1c-413f-8041-42ed22d9afb5.mp4
+
